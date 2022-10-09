@@ -1,0 +1,2 @@
+# azureblog
+personal blog
